@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\bin\Debug\net6.0\Pc.Business.deps.json
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\bin\Debug\net6.0\Pc.Business.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\bin\Debug\net6.0\Pc.Business.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\bin\Debug\net6.0\Pc.DataAccess.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\bin\Debug\net6.0\Pc.Entity.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\bin\Debug\net6.0\Pc.DataAccess.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\bin\Debug\net6.0\Pc.Entity.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\Pc.Business.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\Pc.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\Pc.Business.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\Pc.Business.AssemblyInfo.cs
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\Pc.Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\Pc.Business.csproj.CopyComplete
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\Pc.Business.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\refint\Pc.Business.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\Pc.Business.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Business\obj\Debug\net6.0\ref\Pc.Business.dll

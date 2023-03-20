@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\bin\Debug\net6.0\Book.Entity.deps.json
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\bin\Debug\net6.0\Book.Entity.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\bin\Debug\net6.0\Book.Entity.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\obj\Debug\net6.0\Book.Entity.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\obj\Debug\net6.0\Book.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\obj\Debug\net6.0\Book.Entity.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\obj\Debug\net6.0\Book.Entity.AssemblyInfo.cs
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\obj\Debug\net6.0\Book.Entity.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\obj\Debug\net6.0\Book.Entity.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\obj\Debug\net6.0\refint\Book.Entity.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\obj\Debug\net6.0\Book.Entity.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.Entity\obj\Debug\net6.0\ref\Book.Entity.dll

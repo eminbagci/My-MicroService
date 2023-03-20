@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\bin\Debug\net6.0\Pc.Entity.deps.json
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\bin\Debug\net6.0\Pc.Entity.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\bin\Debug\net6.0\Pc.Entity.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\obj\Debug\net6.0\Pc.Entity.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\obj\Debug\net6.0\Pc.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\obj\Debug\net6.0\Pc.Entity.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\obj\Debug\net6.0\Pc.Entity.AssemblyInfo.cs
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\obj\Debug\net6.0\Pc.Entity.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\obj\Debug\net6.0\Pc.Entity.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\obj\Debug\net6.0\refint\Pc.Entity.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\obj\Debug\net6.0\Pc.Entity.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Entity\obj\Debug\net6.0\ref\Pc.Entity.dll

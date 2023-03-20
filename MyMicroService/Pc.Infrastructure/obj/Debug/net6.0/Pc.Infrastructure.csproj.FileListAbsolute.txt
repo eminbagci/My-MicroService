@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\bin\Debug\net6.0\Pc.Infrastructure.deps.json
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\bin\Debug\net6.0\Pc.Infrastructure.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\bin\Debug\net6.0\Pc.Infrastructure.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\bin\Debug\net6.0\Pc.Domain.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\bin\Debug\net6.0\Pc.Domain.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\Pc.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\Pc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\Pc.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\Pc.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\Pc.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\Pc.Infrastructure.csproj.CopyComplete
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\Pc.Infrastructure.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\refint\Pc.Infrastructure.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\Pc.Infrastructure.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Pc.Infrastructure\obj\Debug\net6.0\ref\Pc.Infrastructure.dll

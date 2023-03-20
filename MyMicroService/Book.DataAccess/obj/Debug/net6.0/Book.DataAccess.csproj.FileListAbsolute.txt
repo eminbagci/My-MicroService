@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\Book.DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\Book.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\Book.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\Book.DataAccess.AssemblyInfo.cs
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\Book.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\bin\Debug\net6.0\Book.DataAccess.deps.json
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\bin\Debug\net6.0\Book.DataAccess.runtimeconfig.json
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\bin\Debug\net6.0\Book.DataAccess.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\bin\Debug\net6.0\Book.DataAccess.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\bin\Debug\net6.0\Book.Entity.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\bin\Debug\net6.0\Book.Entity.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\Book.DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\Book.DataAccess.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\refint\Book.DataAccess.dll
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\Book.DataAccess.pdb
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\Book.DataAccess.genruntimeconfig.cache
+C:\Users\PC\Desktop\MICROSERVICE\MyMicroService\Book.DataAccess\obj\Debug\net6.0\ref\Book.DataAccess.dll
